@@ -10,8 +10,8 @@
     <owners>Sasha Chernykh</owners>
     <licenseUrl>https://creativecommons.org/licenses/by-nd/4.0/</licenseUrl>
     <projectUrl>https://www.gnu.org/software/gtypist/</projectUrl>
-    <iconUrl>https://cdn.rawgit.com/Kristinita/SashaChocolatey/master/icons/GNU Typist.png</iconUrl>
-    <packageSourceUrl>https://github.com/Kristinita/SashaChocolatey/tree/master/packages/GNU Typist</packageSourceUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/Kristinita/SashaChocolatey@master/icons/GNU-Typist.png</iconUrl>
+    <packageSourceUrl>https://github.com/Kristinita/SashaChocolatey/tree/master/packages/GNU%20Typist</packageSourceUrl>
     <docsUrl>https://www.gnu.org/software/gtypist/doc/</docsUrl>
     <!-- Points to the forum or email list group for the software. -->
     <mailingListUrl>https://lists.gnu.org/mailman/listinfo/info-gnu</mailingListUrl>
